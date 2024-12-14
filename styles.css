@@ -22,8 +22,10 @@ body {
   justify-content: center;
   padding: 4.5rem;
 }
-.results .text {
+.results header h1 {
   color: #fff;
+  font-size: 1rem;
+  color: rgb(207, 206, 206);
 }
 .results .score {
   width: 120px;
@@ -59,9 +61,10 @@ body {
   gap: 1rem 0;
   padding: 1rem 3rem;
 }
-.summary-text {
+.summary header h1 {
   text-transform: capitalize;
   font-weight: 800;
+  font-size: 1rem;
   color: hsl(224, 30%, 27%);
   margin-bottom: 0.4rem;
 }
