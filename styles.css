@@ -132,17 +132,18 @@ article p span {
     align-items: center;
     padding: 4rem 0;
     position: relative;
-    transform: translate(10%,10%);
+    transform: translate(10%, 10%);
     overflow: hidden;
   }
+
   .results {
     border-radius: 2rem;
     width: 350px;
     border-top-right-radius: 2rem;
     border-bottom-right-radius: 2rem;
- position: absolute;
- z-index: 1;
- left: 170px;
+    position: absolute;
+    z-index: 1;
+    left: 170px;
   }
   .summary {
     background-color: #fff;
